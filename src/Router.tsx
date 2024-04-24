@@ -55,4 +55,6 @@ export const Router = createBrowserRouter([
             }
         ]
     }
-]);
+], {
+    basename: '/ggames-super-admin'
+});
