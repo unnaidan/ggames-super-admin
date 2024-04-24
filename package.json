@@ -1,5 +1,6 @@
 {
     "name": "ggames-super-admin",
+    "homepage": "https://unnaidan.github.io/ggames-super-admin",
     "private": true,
     "version": "0.0.0",
     "type": "module",
